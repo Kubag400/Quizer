@@ -1,0 +1,297 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projekty\\Quizzer\\Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0765350C-8252-4557-8438-30DA9F9B5222}|Server\\Server.csproj|d:\\projekty\\quizzer\\server\\server\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{0765350C-8252-4557-8438-30DA9F9B5222}|Server\\Server.csproj|solutionrelative:server\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0765350C-8252-4557-8438-30DA9F9B5222}|Server\\Server.csproj|d:\\projekty\\quizzer\\server\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0765350C-8252-4557-8438-30DA9F9B5222}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0765350C-8252-4557-8438-30DA9F9B5222}|Server\\Server.csproj|d:\\projekty\\quizzer\\server\\server\\helpers\\httpmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0765350C-8252-4557-8438-30DA9F9B5222}|Server\\Server.csproj|solutionrelative:server\\helpers\\httpmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0765350C-8252-4557-8438-30DA9F9B5222}|Server\\Server.csproj|d:\\projekty\\quizzer\\server\\server\\helpers\\quizzmaper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0765350C-8252-4557-8438-30DA9F9B5222}|Server\\Server.csproj|solutionrelative:server\\helpers\\quizzmaper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0765350C-8252-4557-8438-30DA9F9B5222}|Server\\Server.csproj|d:\\projekty\\quizzer\\server\\server\\database\\entities\\quizzquestionentiity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0765350C-8252-4557-8438-30DA9F9B5222}|Server\\Server.csproj|solutionrelative:server\\database\\entities\\quizzquestionentiity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0765350C-8252-4557-8438-30DA9F9B5222}|Server\\Server.csproj|d:\\projekty\\quizzer\\server\\server\\services\\sqlitequizzservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0765350C-8252-4557-8438-30DA9F9B5222}|Server\\Server.csproj|solutionrelative:server\\services\\sqlitequizzservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0765350C-8252-4557-8438-30DA9F9B5222}|Server\\Server.csproj|d:\\projekty\\quizzer\\server\\server\\controllers\\quizzcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0765350C-8252-4557-8438-30DA9F9B5222}|Server\\Server.csproj|solutionrelative:server\\controllers\\quizzcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0765350C-8252-4557-8438-30DA9F9B5222}|Server\\Server.csproj|d:\\projekty\\quizzer\\server\\server\\database\\quizzmecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0765350C-8252-4557-8438-30DA9F9B5222}|Server\\Server.csproj|solutionrelative:server\\database\\quizzmecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0765350C-8252-4557-8438-30DA9F9B5222}|Server\\Server.csproj|d:\\projekty\\quizzer\\server\\server\\database\\entities\\quizzentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0765350C-8252-4557-8438-30DA9F9B5222}|Server\\Server.csproj|solutionrelative:server\\database\\entities\\quizzentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0765350C-8252-4557-8438-30DA9F9B5222}|Server\\Server.csproj|d:\\projekty\\quizzer\\server\\server\\services\\iquizzservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0765350C-8252-4557-8438-30DA9F9B5222}|Server\\Server.csproj|solutionrelative:server\\services\\iquizzservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0765350C-8252-4557-8438-30DA9F9B5222}|Server\\Server.csproj|d:\\projekty\\quizzer\\server\\server\\models\\addquestiontoquizzrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0765350C-8252-4557-8438-30DA9F9B5222}|Server\\Server.csproj|solutionrelative:server\\models\\addquestiontoquizzrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0765350C-8252-4557-8438-30DA9F9B5222}|Server\\Server.csproj|d:\\projekty\\quizzer\\server\\server\\models\\addquizzrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0765350C-8252-4557-8438-30DA9F9B5222}|Server\\Server.csproj|solutionrelative:server\\models\\addquizzrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0765350C-8252-4557-8438-30DA9F9B5222}|Server\\Server.csproj|d:\\projekty\\quizzer\\server\\server\\models\\responses\\getquizzesbytopicresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0765350C-8252-4557-8438-30DA9F9B5222}|Server\\Server.csproj|solutionrelative:server\\models\\responses\\getquizzesbytopicresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0765350C-8252-4557-8438-30DA9F9B5222}|Server\\Server.csproj|d:\\projekty\\quizzer\\server\\server\\models\\addquestionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0765350C-8252-4557-8438-30DA9F9B5222}|Server\\Server.csproj|solutionrelative:server\\models\\addquestionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0765350C-8252-4557-8438-30DA9F9B5222}|Server\\Server.csproj|d:\\projekty\\quizzer\\server\\server\\migrations\\20241010105540_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0765350C-8252-4557-8438-30DA9F9B5222}|Server\\Server.csproj|solutionrelative:server\\migrations\\20241010105540_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0765350C-8252-4557-8438-30DA9F9B5222}|Server\\Server.csproj|d:\\projekty\\quizzer\\server\\server\\migrations\\quizzmecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0765350C-8252-4557-8438-30DA9F9B5222}|Server\\Server.csproj|solutionrelative:server\\migrations\\quizzmecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0765350C-8252-4557-8438-30DA9F9B5222}|Server\\Server.csproj|d:\\projekty\\quizzer\\server\\server\\migrations\\20241011100125_fixquizzquestionentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0765350C-8252-4557-8438-30DA9F9B5222}|Server\\Server.csproj|solutionrelative:server\\migrations\\20241011100125_fixquizzquestionentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20241011100125_FixQuizzQuestionEntity.cs",
+              "DocumentMoniker": "D:\\Projekty\\Quizzer\\Server\\Server\\Migrations\\20241011100125_FixQuizzQuestionEntity.cs",
+              "RelativeDocumentMoniker": "Server\\Migrations\\20241011100125_FixQuizzQuestionEntity.cs",
+              "ToolTip": "D:\\Projekty\\Quizzer\\Server\\Server\\Migrations\\20241011100125_FixQuizzQuestionEntity.cs",
+              "RelativeToolTip": "Server\\Migrations\\20241011100125_FixQuizzQuestionEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T10:02:53.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20241010105540_initial.cs",
+              "DocumentMoniker": "D:\\Projekty\\Quizzer\\Server\\Server\\Migrations\\20241010105540_initial.cs",
+              "RelativeDocumentMoniker": "Server\\Migrations\\20241010105540_initial.cs",
+              "ToolTip": "D:\\Projekty\\Quizzer\\Server\\Server\\Migrations\\20241010105540_initial.cs",
+              "RelativeToolTip": "Server\\Migrations\\20241010105540_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T10:02:51.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddQuestionRequest.cs",
+              "DocumentMoniker": "D:\\Projekty\\Quizzer\\Server\\Server\\Models\\AddQuestionRequest.cs",
+              "RelativeDocumentMoniker": "Server\\Models\\AddQuestionRequest.cs",
+              "ToolTip": "D:\\Projekty\\Quizzer\\Server\\Server\\Models\\AddQuestionRequest.cs",
+              "RelativeToolTip": "Server\\Models\\AddQuestionRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T10:00:02.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddQuizzRequest.cs",
+              "DocumentMoniker": "D:\\Projekty\\Quizzer\\Server\\Server\\Models\\AddQuizzRequest.cs",
+              "RelativeDocumentMoniker": "Server\\Models\\AddQuizzRequest.cs",
+              "ToolTip": "D:\\Projekty\\Quizzer\\Server\\Server\\Models\\AddQuizzRequest.cs",
+              "RelativeToolTip": "Server\\Models\\AddQuizzRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T09:56:09.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IQuizzService.cs",
+              "DocumentMoniker": "D:\\Projekty\\Quizzer\\Server\\Server\\Services\\IQuizzService.cs",
+              "RelativeDocumentMoniker": "Server\\Services\\IQuizzService.cs",
+              "ToolTip": "D:\\Projekty\\Quizzer\\Server\\Server\\Services\\IQuizzService.cs",
+              "RelativeToolTip": "Server\\Services\\IQuizzService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T09:54:46.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\Projekty\\Quizzer\\Server\\Server\\.gitignore",
+              "RelativeDocumentMoniker": "Server\\.gitignore",
+              "ToolTip": "D:\\Projekty\\Quizzer\\Server\\Server\\.gitignore",
+              "RelativeToolTip": "Server\\.gitignore",
+              "ViewState": "AgIAALUBAAAAAAAAAAAAAOQBAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-10T10:56:36.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QuizzEntity.cs",
+              "DocumentMoniker": "D:\\Projekty\\Quizzer\\Server\\Server\\Database\\Entities\\QuizzEntity.cs",
+              "RelativeDocumentMoniker": "Server\\Database\\Entities\\QuizzEntity.cs",
+              "ToolTip": "D:\\Projekty\\Quizzer\\Server\\Server\\Database\\Entities\\QuizzEntity.cs",
+              "RelativeToolTip": "Server\\Database\\Entities\\QuizzEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T10:55:55.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SqliteQuizzService.cs",
+              "DocumentMoniker": "D:\\Projekty\\Quizzer\\Server\\Server\\Services\\SqliteQuizzService.cs",
+              "RelativeDocumentMoniker": "Server\\Services\\SqliteQuizzService.cs",
+              "ToolTip": "D:\\Projekty\\Quizzer\\Server\\Server\\Services\\SqliteQuizzService.cs",
+              "RelativeToolTip": "Server\\Services\\SqliteQuizzService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwwCQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T10:09:32.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projekty\\Quizzer\\Server\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Server\\Program.cs",
+              "ToolTip": "D:\\Projekty\\Quizzer\\Server\\Server\\Program.cs",
+              "RelativeToolTip": "Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T10:52:47.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QuizzController.cs",
+              "DocumentMoniker": "D:\\Projekty\\Quizzer\\Server\\Server\\Controllers\\QuizzController.cs",
+              "RelativeDocumentMoniker": "Server\\Controllers\\QuizzController.cs",
+              "ToolTip": "D:\\Projekty\\Quizzer\\Server\\Server\\Controllers\\QuizzController.cs",
+              "RelativeToolTip": "Server\\Controllers\\QuizzController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T10:49:40.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HttpMiddleware.cs",
+              "DocumentMoniker": "D:\\Projekty\\Quizzer\\Server\\Server\\Helpers\\HttpMiddleware.cs",
+              "RelativeDocumentMoniker": "Server\\Helpers\\HttpMiddleware.cs",
+              "ToolTip": "D:\\Projekty\\Quizzer\\Server\\Server\\Helpers\\HttpMiddleware.cs",
+              "RelativeToolTip": "Server\\Helpers\\HttpMiddleware.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAIA9wBgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T17:51:30.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuizzMaper.cs",
+              "DocumentMoniker": "D:\\Projekty\\Quizzer\\Server\\Server\\Helpers\\QuizzMaper.cs",
+              "RelativeDocumentMoniker": "Server\\Helpers\\QuizzMaper.cs",
+              "ToolTip": "D:\\Projekty\\Quizzer\\Server\\Server\\Helpers\\QuizzMaper.cs",
+              "RelativeToolTip": "Server\\Helpers\\QuizzMaper.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T10:11:35.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "QuizzMeContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Projekty\\Quizzer\\Server\\Server\\Migrations\\QuizzMeContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Server\\Migrations\\QuizzMeContextModelSnapshot.cs",
+              "ToolTip": "D:\\Projekty\\Quizzer\\Server\\Server\\Migrations\\QuizzMeContextModelSnapshot.cs",
+              "RelativeToolTip": "Server\\Migrations\\QuizzMeContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T10:02:53.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QuizzQuestionEntiity.cs",
+              "DocumentMoniker": "D:\\Projekty\\Quizzer\\Server\\Server\\Database\\Entities\\QuizzQuestionEntiity.cs",
+              "RelativeDocumentMoniker": "Server\\Database\\Entities\\QuizzQuestionEntiity.cs",
+              "ToolTip": "D:\\Projekty\\Quizzer\\Server\\Server\\Database\\Entities\\QuizzQuestionEntiity.cs",
+              "RelativeToolTip": "Server\\Database\\Entities\\QuizzQuestionEntiity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:18:43.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QuizzMeContext.cs",
+              "DocumentMoniker": "D:\\Projekty\\Quizzer\\Server\\Server\\Database\\QuizzMeContext.cs",
+              "RelativeDocumentMoniker": "Server\\Database\\QuizzMeContext.cs",
+              "ToolTip": "D:\\Projekty\\Quizzer\\Server\\Server\\Database\\QuizzMeContext.cs",
+              "RelativeToolTip": "Server\\Database\\QuizzMeContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T10:53:48.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddQuestionToQuizzRequest.cs",
+              "DocumentMoniker": "D:\\Projekty\\Quizzer\\Server\\Server\\Models\\AddQuestionToQuizzRequest.cs",
+              "RelativeDocumentMoniker": "Server\\Models\\AddQuestionToQuizzRequest.cs",
+              "ToolTip": "D:\\Projekty\\Quizzer\\Server\\Server\\Models\\AddQuestionToQuizzRequest.cs",
+              "RelativeToolTip": "Server\\Models\\AddQuestionToQuizzRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T10:04:48.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetQuizzesByTopicResponse.cs",
+              "DocumentMoniker": "D:\\Projekty\\Quizzer\\Server\\Server\\Models\\Responses\\GetQuizzesByTopicResponse.cs",
+              "RelativeDocumentMoniker": "Server\\Models\\Responses\\GetQuizzesByTopicResponse.cs",
+              "ToolTip": "D:\\Projekty\\Quizzer\\Server\\Server\\Models\\Responses\\GetQuizzesByTopicResponse.cs",
+              "RelativeToolTip": "Server\\Models\\Responses\\GetQuizzesByTopicResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T15:41:54.855Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
