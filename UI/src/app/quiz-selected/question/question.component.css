@@ -1,0 +1,17 @@
+.correct {
+    background-color: green;
+}
+
+.incorrect {
+    background-color: red;
+}
+
+.default {
+    background-color: gray;
+}
+.container{
+   background-color: wheat;
+}
+.clickable{
+    cursor: grab;
+}

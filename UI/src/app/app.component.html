@@ -1,0 +1,19 @@
+<div id = "mainContent">
+  <div id = "topContent">
+    <app-nav-bar></app-nav-bar>
+  </div>
+  
+  @if(quizzSelected)
+  {
+    <app-quiz-selected [selectedQuiz]="selectedQuiz"></app-quiz-selected>
+  }
+  @else {
+
+    <div class = "HelloContent">
+      <h3>Welcome to the page</h3>
+      <p> This page is dedicated for learning purpouses, try to use this page for your own learning oportunity</p>
+    </div>
+    <app-full-list (quizSelected)="ShowSelected($event)"></app-full-list>
+  }
+
+</div>

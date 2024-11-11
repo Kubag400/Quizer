@@ -2,6 +2,7 @@
 using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Server.Database;
 
@@ -10,9 +11,11 @@ using Server.Database;
 namespace Server.Migrations
 {
     [DbContext(typeof(QuizzMeContext))]
-    partial class QuizzMeContextModelSnapshot : ModelSnapshot
+    [Migration("20241014153450_ChangeList")]
+    partial class ChangeList
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder.HasAnnotation("ProductVersion", "8.0.10");
@@ -23,14 +26,6 @@ namespace Server.Migrations
                         .ValueGeneratedOnAdd()
                         .HasColumnType("TEXT");
 
-                    b.Property<string>("QuizName")
-                        .IsRequired()
-                        .HasColumnType("TEXT");
-
-                    b.Property<string>("Topic")
-                        .IsRequired()
-                        .HasColumnType("TEXT");
-
                     b.HasKey("QuizzId");
 
                     b.ToTable("Quizzes");
@@ -38,9 +33,9 @@ namespace Server.Migrations
 
             modelBuilder.Entity("Server.Database.Entities.QuizzQuestionEntiity", b =>
                 {
-                    b.Property<Guid>("Id")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("TEXT");
+                        .HasColumnType("INTEGER");
 
                     b.Property<string>("Answers")
                         .IsRequired()

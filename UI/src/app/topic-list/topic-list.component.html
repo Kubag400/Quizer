@@ -1,0 +1,12 @@
+<div>
+    <div class="LeftPanel"><h4>Topic:</h4></div>
+    <div class="RightPanel"><h4>Quizzes:</h4></div>
+    @for (item of test; track $index) {
+        <div class = LeftPanel>
+            {{item.Topic}}
+        </div>
+        <div class = RightPanel>
+            {{item.Quizzes}}
+        </div>
+    }
+</div>

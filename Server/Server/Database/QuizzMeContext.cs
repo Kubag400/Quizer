@@ -8,7 +8,7 @@ namespace Server.Database
         public QuizzMeContext(DbContextOptions<QuizzMeContext> options) : base(options) { }
 
         public DbSet<QuizzEntity> Quizzes { get; set; }
-        public DbSet<QuizzQuestionEntiity> Questions { get; set; }
+        public DbSet<QuizQuestionEntity> Questions { get; set; }
 
         protected override void OnModelCreating(ModelBuilder builder)
         {

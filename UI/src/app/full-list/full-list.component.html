@@ -1,0 +1,12 @@
+<div>
+    <div class="LeftPanel"><h4>Quiz Name:</h4></div>
+    <div class="RightPanel"><h4>Topic:</h4></div>
+        @for (item of quizzes?.quizzes; track item.id) {
+        <div class = LeftPanel (click)="Clicked(item.id)">
+            {{item.quizName}}
+        </div>
+        <div class = RightPanel>
+            {{item.topic}}
+        </div>
+    }
+</div>

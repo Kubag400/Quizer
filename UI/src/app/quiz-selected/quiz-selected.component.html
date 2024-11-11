@@ -1,0 +1,22 @@
+<div class="container">
+    <app-quiz-description></app-quiz-description>
+
+    @if(!quizStarted)
+    {
+        <button type="button" class="btn btn-primary" (click)="Started()">Run the Quiz</button>
+    }
+    @if(quizStarted)
+    {
+        @for(item of selectedQuiz.questions; track $index)
+        {
+            <div class="spacer">
+                <app-question [question]="item" (answerd)="QuestionAnswerd($event)"></app-question>
+            </div>
+        }
+
+        <div id="fixedContainer">
+            <div id="counter">{{score}}</div> <!-- Counter element -->
+            <button type="button" class="btn btn-warning">Submit!</button>
+          </div>
+    }
+</div>
