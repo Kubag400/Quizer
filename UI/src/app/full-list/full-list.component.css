@@ -12,13 +12,17 @@ div{
 .LeftPanel:first-child{
     text-align: center;
 }
-.CenterPanel{
-    float: left;
-    width: 20%;
+
+.LeftPanel:first-child:hover{
     text-align: center;
-    padding-left: 1%;
-    font-size: large;
+    background-color:#F8F9FA; ;
 }
+
+.LeftPanel:hover{
+    background-color: red;
+    cursor:grab;
+}
+
 .RightPanel{
     float: left;
     width: 20%;

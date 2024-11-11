@@ -1,4 +1,4 @@
-﻿namespace Server.Models
+﻿namespace Server.Models.Requests
 {
     public class AddQuestionRequest
     {

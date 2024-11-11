@@ -1,8 +1,4 @@
-﻿using Microsoft.AspNetCore.Http;
-using System.Net;
-using System.Text.Json;
-
-namespace Server.Helpers
+﻿namespace Server.Helpers
 {
     public class HttpMiddleware 
     {
@@ -20,7 +16,6 @@ namespace Server.Helpers
             
             _logger.LogInformation("Works just fine!");
             await _next(context);
-
         }
     }
 }

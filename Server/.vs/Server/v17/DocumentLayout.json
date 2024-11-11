@@ -148,7 +148,7 @@
               "RelativeDocumentMoniker": "Server\\.gitignore",
               "ToolTip": "D:\\Projekty\\Quizzer\\Server\\Server\\.gitignore",
               "RelativeToolTip": "Server\\.gitignore",
-              "ViewState": "AgIAALUBAAAAAAAAAAAAANkBAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAKwBAAAAAAAAAAAAANwBAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-10-10T10:56:36.155Z",
               "EditorCaption": ""
@@ -187,8 +187,7 @@
               "RelativeToolTip": "Server\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:52:47.821Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T10:52:47.821Z"
             },
             {
               "$type": "Document",
@@ -212,8 +211,7 @@
               "RelativeToolTip": "Server\\Helpers\\HttpMiddleware.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAIA9wBgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T17:51:30.045Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-27T17:51:30.045Z"
             },
             {
               "$type": "Document",
@@ -225,8 +223,7 @@
               "RelativeToolTip": "Server\\Helpers\\QuizzMaper.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAgwCMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:11:35.293Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T10:11:35.293Z"
             },
             {
               "$type": "Document",
@@ -250,8 +247,7 @@
               "RelativeToolTip": "Server\\Database\\Entities\\QuizzQuestionEntiity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T11:18:43.297Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T11:18:43.297Z"
             },
             {
               "$type": "Document",

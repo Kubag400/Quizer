@@ -1,0 +1,24 @@
+<div class="container">
+    <div class="row">
+        <div class="col">
+            <div class="description">
+                {{question.description}}
+            </div>
+        </div>
+    </div>
+    @for(data of question.answers; track $index ){
+    <div class="clickable">
+        <div class="row" (click)="AnswerdQuestion(data, question.correctAnswer)">
+            <div class="col-1">
+                {{letters[$index]}}
+            </div>
+            <div class="col-2">
+                {{data}}
+            </div>
+        </div>
+    </div>
+    }
+    <div [class]="answerState" class="row">
+        <Marquee>{{result}}</Marquee>
+    </div>
+</div>

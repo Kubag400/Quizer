@@ -1,6 +1,6 @@
 ﻿namespace Server.Database.Entities
 {
-    public class QuizzQuestionEntiity
+    public class QuizQuestionEntity
     {
         public QuizzEntity Quizz { get; set; }
         public required Guid Id { get; set; }
